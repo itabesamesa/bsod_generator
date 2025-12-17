@@ -1,5 +1,9 @@
 # bsod_generator
-generate windows bsods to use as your lockscreen on sway
+Generate windows bsods to use as your lockscreen on sway
+
+It uses [ImageMagick](https://imagemagick.org/) to generate a bsod
+
+It is intended to be used with sway. If you use sway, a bsod will be gererated for each available display
 
 ## Commandline arguments
 <pre>
